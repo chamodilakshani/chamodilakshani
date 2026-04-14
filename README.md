@@ -18,26 +18,26 @@
 
 ### 🛠️ Tech Stack
 
-##💻 Frontend:
+💻 Frontend:
 - HTML  
 - CSS  
 - JavaScript  
 
-##🖥️ Backend:
+🖥️ Backend:
 - PHP  
 - MySQL\
 - Firebase  
 
-##⚙️ Programming:
+⚙️ Programming:
 - Java  
 - Python (Learning)
 - C++
 
-##📊 AI & Data Science:
+📊 AI & Data Science:
 - Data Analysis (Beginner)  
 - Machine Learning (Learning)  
 
-##🎨 Design:
+🎨 Design:
 - Figma  
 - Adobe Photoshop
 - Illustrator
@@ -49,12 +49,12 @@
 ### 🔹 CodePlay – Interactive Coding Platform for Kids
 An engaging platform designed to teach coding through interactive and gamified learning.
 
-##🔧 Features:
+🔧 Features:
 - 🎮 Gamified lessons  
 - 🏆 Rewards and badges  
 - 📊 Progress tracking  
 
-##💻 Technologies:
+💻 Technologies:
 HTML, CSS, JavaScript, PHP, Firebase  
 
 ---
@@ -62,12 +62,12 @@ HTML, CSS, JavaScript, PHP, Firebase
 ### 🔹 LearnTrack Pro – Smart Learning Management System
 A modern LMS designed to improve student learning experience.
 
-##🔧 Features:
+🔧 Features:
 - 📅 Advanced calendar system  
 - 📚 Course and student management  
 - 📊 Progress tracking  
 
-##💻 Technologies:
+💻 Technologies:
 HTML, CSS, JavaScript, PHP, MySQL  
 
 ---
@@ -75,19 +75,19 @@ HTML, CSS, JavaScript, PHP, MySQL
 ### 🔹 Hospital Facility Management System
 Designed and implemented a system at Base Hospital Kamburupitiya to manage hospital facilities efficiently.
 
-##🔧 Key Features:
+🔧 Key Features:
 - 🏥 Facility allocation (rooms, equipment)  
 - 🧾 Resource tracking and availability  
 - 📅 Scheduling and usage management  
 - 📊 Organized reporting system  
 
-## Technologies:
+💻 Technologies:
 Java, MySQL , PHP
 
-##📍 Deployment:
+📍 Deployment:
 Base Hospital Kamburupitiya  
 
-## 🎯 Impact:
+🎯 Impact:
 - Improved facility organization  
 - Reduced manual work  
 - Increased operational efficiency  
@@ -97,12 +97,12 @@ Base Hospital Kamburupitiya
  ### 🔹 Mobile Accessories Website
 A clean and modern e-commerce website focused on user experience.
 
-##🔧 Features:
+🔧 Features:
 - 🛒 Product listing  
 - 💳 Order system  
 - 🎨 User-friendly interface  
 
-##💻 Technologies:
+💻 Technologies:
 HTML, CSS, JavaScript ,PHP 
 
 ---
