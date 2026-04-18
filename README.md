@@ -96,14 +96,6 @@
 
 ---
 
-## ✨ Fun Animation
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212259621-0a9a0b3b-8c3c-4f3f-9f3c-5d0b7f7d9b9b.gif" width="400"/>
-</p>
-
----
-
 ## 📫 Contact
 
 📧 Email: **chamodilakshani474@gmail.com**  
