@@ -1,131 +1,129 @@
-### 👋 Hi, I'm Chamodi Lakshani
+<h1 align="center">👋 Hi there, I'm Chamodi Lakshani</h1>
 
-🎓 Health ICT Undergraduate  
-💻 UI/UX Designer | Web Developer  
-🤖 AI & Data Science Enthusiast  
-🌱 Passionate about building modern, user-friendly and intelligent systems  
+<p align="center">
+🎓 Health ICT Undergraduate | 💻 UI/UX Designer | 🌐 Web Developer | 🤖 AI Enthusiast
+</p>
 
----
-
-### 🚀 About Me
-- 🎓 Undergraduate in Health Information & Communication Technology  
-- 🎨 Interested in UI/UX Design and Frontend Development  
-- 🤖 Currently learning Artificial Intelligence & Data Science  
-- 🏥 Passionate about healthcare technology solutions  
-- 🚀 Focused on creating impactful digital systems  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Web+Developer;AI+%26+Data+Science+Learner;Building+Smart+Healthcare+Systems" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-💻 Frontend:
-- HTML  
-- CSS  
-- JavaScript  
+<p align="center">
+<a href="https://www.linkedin.com/in/chamodi-lakshani-766648297/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🖥️ Backend:
-- PHP  
-- MySQL\
-- Firebase  
+<a href="mailto:chamodilakshani474@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-⚙️ Programming:
-- Java  
-- Python (Learning)
-- C++
-
-📊 AI & Data Science:
-- Data Analysis (Beginner)  
-- Machine Learning (Learning)  
-
-🎨 Design:
-- Figma  
-- Adobe Photoshop
-- Illustrator
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🚀 Projects
+## 🚀 About Me
 
-### 🔹 CodePlay – Interactive Coding Platform for Kids
-An engaging platform designed to teach coding through interactive and gamified learning.
-
-🔧 Features:
-- 🎮 Gamified lessons  
-- 🏆 Rewards and badges  
-- 📊 Progress tracking  
-
-💻 Technologies:
-HTML, CSS, JavaScript, PHP, Firebase  
+- 🎓 Undergraduate in **Health Information & Communication Technology**
+- 🎨 Passionate about **UI/UX & Frontend Design**
+- 🤖 Learning **AI, Data Science & Machine Learning**
+- 🏥 Interested in **Healthcare Technology Systems**
+- 💡 Love building **real-world impactful projects**
 
 ---
 
-### 🔹 LearnTrack Pro – Smart Learning Management System
-A modern LMS designed to improve student learning experience.
+## 🛠️ Languages & Tools
 
-🔧 Features:
-- 📅 Advanced calendar system  
-- 📚 Course and student management  
-- 📊 Progress tracking  
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-💻 Technologies:
-HTML, CSS, JavaScript, PHP, MySQL  
+### 🖥️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,firebase" />
+</p>
+
+### ⚙️ Programming
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
+
+### 🎨 Design
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,ai" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CodePlay – Learning Platform for Kids
+🎮 Gamified coding education system  
+🏆 Rewards, badges & progress tracking  
+💻 Tech: HTML, CSS, JS, PHP, Firebase  
+
+---
+
+### 🔹 LearnTrack Pro – LMS System
+📅 Smart scheduling system  
+📊 Progress tracking dashboard  
+💻 Tech: HTML, CSS, JS, PHP, MySQL  
 
 ---
 
 ### 🔹 Hospital Facility Management System
-Designed and implemented a system at Base Hospital Kamburupitiya to manage hospital facilities efficiently.
-
-🔧 Key Features:
-- 🏥 Facility allocation (rooms, equipment)  
-- 🧾 Resource tracking and availability  
-- 📅 Scheduling and usage management  
-- 📊 Organized reporting system  
-
-💻 Technologies:
-Java, MySQL , PHP
-
-📍 Deployment:
-Base Hospital Kamburupitiya  
-
-🎯 Impact:
-- Improved facility organization  
-- Reduced manual work  
-- Increased operational efficiency  
+🏥 Built for Base Hospital Kamburupitiya  
+📅 Resource & facility management  
+📊 Automated reporting system  
+💻 Tech: Java, PHP, MySQL  
 
 ---
 
- ### 🔹 Mobile Accessories Website
-A clean and modern e-commerce website focused on user experience.
+## 📊 GitHub Stats
 
-🔧 Features:
-- 🛒 Product listing  
-- 💳 Order system  
-- 🎨 User-friendly interface  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-💻 Technologies:
-HTML, CSS, JavaScript ,PHP 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
----
-
-### 🤖 AI & Data Science Journey
-- 📚 Learning Python for Data Science  
-- 📊 Exploring data analysis and visualization  
-- 🤖 Understanding machine learning basics  
-- 🏥 Interested in AI applications in healthcare  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🏆 Achievements
-- 🏥 Successfully implemented a Hospital Facility Management System  
-- 💻 Developed multiple academic and real-world projects  
-- 🎨 Designed user-friendly UI/UX interfaces  
+## 🏆 Achievements
+
+- 🏥 Developed real-world Hospital Management System  
+- 💻 Built multiple academic & web projects  
+- 🎨 Designed UI/UX interfaces for applications  
+- 🤖 Exploring AI in healthcare systems  
 
 ---
 
- ### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/chamodi-lakshani-766648297/
-- 📧 Email: chamodilakshani474@gmail.com 
+## ✨ Fun Animation
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212259621-0a9a0b3b-8c3c-4f3f-9f3c-5d0b7f7d9b9b.gif" width="400"/>
+</p>
 
 ---
 
-### ⭐ *Thank you for visiting my profile! Feel free to explore my projects and connect with me.*
+## 📫 Contact
+
+📧 Email: **chamodilakshani474@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/chamodi-lakshani-766648297/
+
+---
+
+⭐ *“Designing intelligent systems for a better future in healthcare.”*
