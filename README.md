@@ -71,7 +71,7 @@
 
 ---
 
-### 🔹 LearnTrack Pro – LMS System
+### 🔹 Sigma Institute – LMS System
 📅 Smart scheduling system  
 📊 Progress tracking dashboard  
 💻 Tech: HTML, CSS, JS, PHP, MySQL  
