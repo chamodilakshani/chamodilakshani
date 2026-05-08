@@ -57,7 +57,7 @@
 
 ### 🎨 Design
 <p>
-<img src="https://skillicons.dev/icons?i=figma,photoshop,ai" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,ai,canva" />
 </p>
 
 ---
