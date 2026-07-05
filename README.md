@@ -257,25 +257,25 @@ Gampaha Wickramaarachchi University of Indigenous Medicine
 
 # 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="www.linkedin.com/in/chamodi-lakshani-47796841a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/chamodi-lakshani-47796841a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:chamodilakshani474@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/chamodilakshani">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://chamodi-lakshaniportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6D9F71?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
