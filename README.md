@@ -271,7 +271,7 @@ Gampaha Wickramaarachchi University of Indigenous Medicine
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="(https://chamodi-lakshaniportfolio.vercel.app/)">
+<a href="https://chamodi-lakshaniportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6D9F71?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
