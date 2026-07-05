@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6D9F71&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=chamodilakshani&label=Profile%20Views&color=6D9F71&style=for-the-badge"/>
 
 </div>
 
@@ -182,9 +182,9 @@ An educational platform that teaches programming through games and interactive a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodilakshani&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodilakshani&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -194,7 +194,7 @@ An educational platform that teaches programming through games and interactive a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodilakshani&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -204,7 +204,7 @@ An educational platform that teaches programming through games and interactive a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamodilakshani&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -267,7 +267,7 @@ Gampaha Wickramaarachchi University of Indigenous Medicine
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/chamodilakshani">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
