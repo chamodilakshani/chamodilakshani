@@ -1,149 +1,126 @@
 <div align="center">
 
-# 👋 Hello, I'm Chamodi Lakshani
+# ☁️ Building My Future in Cloud Computing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Health+Tech+Developer;Full+Stack+Developer;Cloud+Computing+Learner;Building+Technology+That+Matters" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Future+Cloud+Engineer;AWS+%7C+Azure+Learner;Full+Stack+Developer;Building+Secure+and+Scalable+Applications" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=chamodilakshani&label=Profile+Views&color=0ea5e9&style=flat-square"/>
-</p>
+### 👋 Hi, I'm **Chamodi Lakshani**
+
+*Turning ideas into applications today, and cloud solutions tomorrow.*
 
 </div>
 
 ---
 
-# 🌸 About Me
+# 🌍 About Me
 
-```ts
-const chamodi = {
-  location: "Sri Lanka 🇱🇰",
-  education: "BSc (Hons) Health Information & Communication Technology",
-  role: "Full Stack Developer",
-  currentlyLearning: ["AWS", "Azure", "Docker"],
-  interests: [
-    "Cloud Computing",
-    "Healthcare Technology",
-    "Artificial Intelligence",
-    "Web Development"
-  ],
-  motto: "Keep learning. Keep building. 🚀"
-}
+```yaml
+name: Chamodi Lakshani
+location: Sri Lanka 🇱🇰
+
+education:
+  - BSc (Hons) Health Information & Communication Technology
+
+career_goal:
+  Become a Cloud Engineer
+
+currently_learning:
+  - AWS Cloud
+  - Microsoft Azure
+  - Docker
+
+background:
+  - Full Stack Web Development
+  - Healthcare Information Systems
 ```
 
 ---
 
-# 🌍 Current Focus
+# ☁️ My Journey
 
 ```text
-🌱 Learning Cloud Computing
+Started Here
+     │
+     ▼
 
-██████████░░░░░░░░░ 50%
+🌐 Web Development
+HTML • CSS • JavaScript • TypeScript • React
 
-☁ AWS
-☁ Azure
-🐳 Docker
+     │
+     ▼
+
+🏥 Healthcare Applications
+
+     │
+     ▼
+
+☁ Cloud Computing (Current)
+
+AWS
+Azure
+Docker
+
+     │
+     ▼
+
+🚀 Future Goal
+
+Cloud Engineer
 ```
-
----
-
-# 💡 What I Enjoy Building
-
-🏥 Healthcare Systems
-
-🤖 AI Applications
-
-🌐 Modern Web Applications
-
-☁ Cloud-Based Solutions
-
-📱 Responsive User Interfaces
 
 ---
 
 # 🚀 Projects
 
-<table>
-
-<tr>
-<td width="50%">
-
-### 🏥 GovCare EHR
+### 🏥 GovCare EHR *(Team Project)*
 
 Electronic Health Record System
 
-- React
-- TypeScript
-- Firebase
+> Frontend Development • Firebase Integration • React • TypeScript
 
-➡ Team Project
-
-</td>
-
-<td width="50%">
+---
 
 ### 🤖 Dr Buddy
 
-AI Medical Assistant
+AI-powered Medical Assistant
 
-- Python
-- Streamlit
-- Kotlin
+Python • Kotlin
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎮 CodePlay
-
-Interactive Coding Platform for Kids
-
-- Next.js
-- TypeScript
-
-</td>
-
-<td>
+---
 
 ### 💼 Portfolio
 
 Personal Portfolio Website
 
-- React
-- TypeScript
+React • TypeScript
 
-</td>
-</tr>
+---
 
-<tr>
-<td>
+### 🎮 CodePlay *(Team Project)*
+
+Interactive Coding Platform
+
+Next.js • TypeScript
+
+---
 
 ### 🌸 Zara Handmade
 
 Business Website
 
-- JavaScript
-- MongoDB
-
-</td>
-
-<td>
-
-### 🏢 Engineering Website
-
-Corporate Website
-
-- TypeScript
-
-</td>
-</tr>
-
-</table>
+JavaScript • MongoDB
 
 ---
 
-# ⚡ Tech Stack
+### 🏢 Engineering Website
+
+Company Website
+
+TypeScript
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -169,36 +146,33 @@ Corporate Website
 
 </p>
 
-### Database
+### Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 
 </p>
 
-### Cloud & Tools
+### Cloud
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux"/>
 
 </p>
 
 ---
 
-# 🌱 Learning Path
+# 🌱 Currently Exploring
 
-```mermaid
-graph LR
+☁ AWS Services
 
-A[Full Stack Development] --> B[AWS Cloud]
+🐳 Docker Containers
 
-B --> C[Azure]
+🔐 Cloud Security
 
-C --> D[Cloud Engineer]
-
-```
+🏗 Cloud Architecture Fundamentals
 
 ---
 
@@ -212,8 +186,6 @@ C --> D[Cloud Engineer]
 
 </p>
 
----
-
 <p align="center">
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodilakshani&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -222,40 +194,16 @@ C --> D[Cloud Engineer]
 
 ---
 
-# 📈 Contribution Graph
+# 🎯 Mission
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamodilakshani&theme=react-dark"/>
-
-</p>
+> **Build secure, scalable cloud solutions that improve healthcare through technology.**
 
 ---
 
 <div align="center">
 
-## 🌟 Beyond Coding
+## 🌤 Every cloud expert started with the first deployment.
 
-📚 Learning new technologies
-
-🎨 UI/UX Design
-
-🏥 Healthcare Innovation
-
-☁ Exploring Cloud Computing
-
-🤖 AI-powered Applications
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 Favorite Quote
-
-> *"Every expert was once a beginner who kept building."*
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!
 
 </div>
