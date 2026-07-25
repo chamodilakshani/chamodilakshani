@@ -1,294 +1,314 @@
 <div align="center">
 
-# 👋 Hi, I'm Chamodi Lakshani
+# Hi 👋, I'm Chamodi Lakshani
 
-### 💙 Health Informatics Undergraduate • 💻 Full Stack Developer • 🎨 UI/UX Designer
+### Health Information & Communication Technology Undergraduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=6D9F71&center=true&vCenter=true&width=850&lines=Building+Healthcare+Solutions.;Creating+Modern+Web+Applications.;Designing+Beautiful+User+Experiences.;Always+Learning+New+Technologies." />
+### Full Stack Developer • Cloud Computing Enthusiast • Health Tech Innovator
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=chamodilakshani&label=Profile%20Views&color=6D9F71&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cloud+Computing+Learner;AWS+Educate+Member;Health+Informatics+Student;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 🌸 About Me
+# 👩‍💻 About Me
 
-🎓 Bachelor of Health Science (Hons) in **Health Information & Communication Technology**
+🎓 Undergraduate in **Health Information & Communication Technology**
 
-🏫 Gampaha Wickramarachchi University of Indigenous Medicine
+💻 Passionate about building modern web applications, healthcare systems, and cloud-based solutions.
 
-💻 Passionate Full Stack Web Developer
+🌱 Currently expanding my knowledge in **Cloud Computing**, **AWS**, **Azure**, **DevOps**, and **Cloud Security** while continuing to improve my Full Stack Development skills.
 
-🎨 UI/UX Designer with a strong eye for modern interfaces
+## 🚀 Interests
 
-🌱 Currently exploring MERN Stack, REST APIs & Healthcare Systems
-
-❤️ I enjoy building software that combines creativity with real-world impact.
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,bootstrap" />
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🎨 UI / Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+- ☁ Cloud Computing
+- 🌐 Full Stack Development
+- 🏥 Health Informatics
+- 🤖 Artificial Intelligence
+- 🎨 UI/UX Design
+- 📱 Responsive Web Development
 
 ---
 
-# ✨ Featured Projects
+# ☁️ My Cloud Journey
 
-## 🌸 Zara Handmade
+I'm currently transitioning from **Full Stack Development** into **Cloud Computing** with the goal of becoming a **Cloud Engineer**.
 
-> **Modern Full Stack E-Commerce Platform**
+I enjoy building secure, scalable, and cloud-native applications that can make a real-world impact, especially in the healthcare industry.
 
-A handcrafted flower bouquet & gift shopping platform with a beautiful responsive interface.
+## 📚 Currently Learning
 
-### Features
-
-- User Authentication
-- Product Browsing
-- Categories
-- Shopping Cart
-- Custom Bouquet Builder
-- Order Management
-- Order Tracking
-- Responsive UI
-- Secure Login
-
-**Tech Stack**
-
-`React` `Vite` `Node.js` `Express.js` `MySQL` `REST API`
+- ☁ AWS Cloud
+- ☁ Microsoft Azure
+- 🐳 Docker
+- ⚙ Kubernetes
+- 🔄 GitHub Actions
+- 🚀 CI/CD
+- 🐧 Linux
+- 🔐 Cloud Security
+- 🏗 Infrastructure as Code (Terraform)
 
 ---
 
-## 🚗 Meeya Engineering
+## 🎯 Cloud Goals
 
-> **Garage Management System**
+- ✅ AWS Educate Member
+- ✅ AWS Educate Networking Badge
+- ✅ AWS Educate Storage Badge
+- 🎯 AWS Certified Cloud Practitioner
+- 🎯 Azure Administrator (AZ-104)
+- 🎯 Docker & Kubernetes
+- 🎯 Terraform
+- 🎯 Cloud Architecture
+- 🎯 Serverless Applications
+- 🎯 DevOps Engineering
 
-A modern garage management solution for vehicle service centers.
+---
 
-### Features
+# 🚀 Featured Projects
 
-- Customer Management
-- Vehicle Records
-- Service History
-- Job Cards
-- Inventory Management
-- Invoice Generation
-- Service Status Tracking
-- Admin Dashboard
+## 🏥 GovCare EHR System
 
-**Tech Stack**
+Electronic Health Record System developed for Government Hospitals in Sri Lanka.
 
-`React` `Node.js` `Express.js` `MySQL`
+### Technologies
+
+- React
+- TypeScript
+- Firebase
+- TanStack Query
+- Zustand
+- React Hook Form
+- Zod
+- Framer Motion
+- Recharts
+- i18next
+
+🔗 Repository
+
+https://github.com/jmniroshan99/govcare-ehr-system
 
 ---
 
 ## 🏥 Hospital Facility Management System
 
-> **Healthcare Information System**
+Hospital management solution for managing facilities and healthcare resources.
 
-A web application for managing hospital facilities and healthcare resources efficiently.
+🔗 Repository
 
-### Features
-
-- Patient Management
-- Facility Scheduling
-- Department Management
-- Staff Management
-- Resource Allocation
-- Equipment Tracking
-- Reports & Analytics
-- Secure Authentication
-
-**Tech Stack**
-
-`PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+https://github.com/chamodilakshani/Hospital-Facility-Management-System
 
 ---
 
-## 🎓 LearnTrack Pro
+## 🤖 Dr Buddy
 
-> **Learning Management System**
+AI-powered Medical Assistant.
 
-An academic platform that simplifies learning management and scheduling.
+### Technologies
 
-### Features
+- Python
+- Generative AI
+- Streamlit
 
-- Student Dashboard
-- Academic Calendar
-- Assignment Tracking
-- Attendance
-- Notifications
-- Course Management
+🔗 Python Version
 
-**Tech Stack**
+https://github.com/chamodilakshani/Dr-Buddy
 
-`React` `Firebase`
+🔗 Android Version
+
+https://github.com/chamodilakshani/Dr.Buddy
 
 ---
 
 ## 🎮 CodePlay
 
-> **Interactive Coding Learning Platform**
+Interactive Coding Learning Platform for Children.
 
-An educational platform that teaches programming through games and interactive activities.
+### Technologies
 
-### Features
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Prisma
+- PostgreSQL
 
-- Coding Challenges
-- Interactive Lessons
-- Game Levels
-- Progress Tracking
-- Leaderboards
-- Student Dashboard
+🔗 Repository
 
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
+https://github.com/sudeepaviraj/codey-next
 
 ---
 
-# 📈 GitHub Statistics
+## 🌸 Zara Handmade
 
-<div align="center">
+E-commerce website for handmade flowers, bouquets, and gifts.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamodilakshani&show_icons=true&theme=tokyonight&hide_border=true"/>
+🔗 Repository
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodilakshani&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+https://github.com/chamodilakshani/ZaraHandmade
 
 ---
 
-# 🔥 GitHub Streak
+## 🏗 Engineering Company Website
 
-<div align="center">
+Corporate website developed using TypeScript.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodilakshani&theme=tokyonight&hide_border=true"/>
+🔗 Repository
 
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamodilakshani&theme=github-compact&hide_border=true"/>
-
-</div>
+https://github.com/chamodilakshani/engineering_company
 
 ---
 
-# 🏆 Certifications
+## 💼 Personal Portfolio
 
-- 🎨 Diploma in Graphic Design
-- 🇬🇧 Diploma in English – Britishway English Academy
-- 💻 Certificate in Full Stack Web Development (MERN) – Skyrek Academy
+Modern portfolio showcasing projects and achievements.
 
----
+🔗 Repository
 
-# 🎓 Education
+https://github.com/chamodilakshani/portfolio-V02
 
-### Bachelor of Health Science (Hons)
+Older Version
 
-**Health Information & Communication Technology**
-
-Gampaha Wickramaarachchi University of Indigenous Medicine
+https://github.com/chamodilakshani/portfolio
 
 ---
 
-# 🌱 Currently Learning
+# 💻 Tech Stack
 
-- MERN Stack
-- Healthcare Information Systems
-- REST API Development
-- UI/UX Design Systems
-- Cloud Deployment
-- Docker
-
----
-
-# 🎯 Interests
-
-💙 Health Informatics
-
-💻 Full Stack Development
-
-🎨 UI/UX Design
-
-🌐 Web Technologies
-
-📱 Responsive Web Applications
-
-🤖 Artificial Intelligence
-
----
-
-# 📫 Connect With Me
+## Languages
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/chamodi-lakshani-47796841a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,kotlin,mysql"/>
 
-<a href="mailto:chamodilakshani474@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,php"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,linux"/>
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,photoshop"/>
+
+</p>
+
+---
+
+# 🏅 Certifications & Learning
+
+- AWS Educate Member
+- AWS Educate Networking Badge
+- AWS Educate Storage Badge
+- SLIIT AI/ML Stage 01
+- Diploma in Graphic Design
+- Diploma in English
+- Certificate in Full Stack Web Development (MERN)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chamodilakshani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chamodilakshani&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodilakshani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chamodilakshani&theme=algolia&column=4&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamodilakshani&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/chamodilakshani">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://chamodi-lakshaniportfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-6D9F71?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💡 Motto
 
-> *"Design intuitive experiences. Develop meaningful software. Build technology that improves lives."*
+> **"Learning never stops. Every project is another step toward becoming a skilled Cloud Engineer and building technology that improves lives."**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thank you for visiting my GitHub Profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6D9F71,50:D88C9A,100:F7E8E6&section=footer"/>
+*"Building innovative healthcare solutions with Full Stack Development and Cloud Computing."*
 
 </div>
