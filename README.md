@@ -1,161 +1,250 @@
 <div align="center">
 
-# Hi there, I'm Chamodi Lakshani 👋
+# 👋 Hello, I'm Chamodi Lakshani
 
-### Health Information & Communication Technology Undergraduate
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Health+Tech+Developer;Full+Stack+Developer;Cloud+Computing+Learner;Building+Technology+That+Matters" />
 
-💻 Full Stack Developer • ☁️ Cloud Computing Learner • 🏥 Health Tech Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cloud+Computing+Learner;Health+Informatics+Student;Always+Learning+Something+New" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=chamodilakshani&label=Profile+Views&color=0ea5e9&style=flat-square"/>
+</p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🌸 About Me
 
-I'm an undergraduate in **Health Information & Communication Technology** with a passion for building modern web applications and healthcare solutions.
-
-I enjoy learning new technologies, solving real-world problems, and continuously improving my development skills. Currently, I'm expanding my knowledge in **Cloud Computing** while continuing my journey as a Full Stack Developer.
-
----
-
-# ☁️ Interests
-
-- ☁️ Cloud Computing
-- 🌐 Full Stack Web Development
-- 🏥 Health Informatics
-- 🤖 Artificial Intelligence
-- 📱 Web & Mobile Applications
-- 🎨 UI/UX Design
-- 🔐 Cybersecurity
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 GovCare EHR System *(Team Project)*
-
-Electronic Health Record system designed for government hospitals in Sri Lanka.
-
-**My Contributions**
-
-- Frontend Development
-- Responsive UI Development
-- Firebase Integration
-- Git & GitHub Collaboration
-
-**Repository**
-
-🔗 https://github.com/jmniroshan99/govcare-ehr-system
+```ts
+const chamodi = {
+  location: "Sri Lanka 🇱🇰",
+  education: "BSc (Hons) Health Information & Communication Technology",
+  role: "Full Stack Developer",
+  currentlyLearning: ["AWS", "Azure", "Docker"],
+  interests: [
+    "Cloud Computing",
+    "Healthcare Technology",
+    "Artificial Intelligence",
+    "Web Development"
+  ],
+  motto: "Keep learning. Keep building. 🚀"
+}
+```
 
 ---
 
-## 🤖 Dr Buddy
+# 🌍 Current Focus
 
-AI-powered medical assistant available as a web application and Android application.
+```text
+🌱 Learning Cloud Computing
 
-**Repository**
+██████████░░░░░░░░░ 50%
 
-🐍 Python Version
-
-https://github.com/chamodilakshani/Dr-Buddy
-
-📱 Android Version
-
-https://github.com/chamodilakshani/Dr.Buddy
+☁ AWS
+☁ Azure
+🐳 Docker
+```
 
 ---
 
-## 💼 Personal Portfolio
+# 💡 What I Enjoy Building
 
-Personal portfolio website showcasing my projects and technical skills.
+🏥 Healthcare Systems
 
-🔗 https://github.com/chamodilakshani/portfolio-V02
+🤖 AI Applications
 
----
+🌐 Modern Web Applications
 
-## 🎮 CodePlay *(Team Project)*
+☁ Cloud-Based Solutions
 
-Interactive coding education platform for children.
-
----
-
-## 🌸 Zara Handmade
-
-Website for a handmade flower and gift business.
-
-🔗 https://github.com/chamodilakshani/ZaraHandmade
+📱 Responsive User Interfaces
 
 ---
 
-## 🏢 Engineering Company Website
+# 🚀 Projects
 
-Responsive company website developed using TypeScript.
+<table>
 
-🔗 https://github.com/chamodilakshani/engineering_company
+<tr>
+<td width="50%">
+
+### 🏥 GovCare EHR
+
+Electronic Health Record System
+
+- React
+- TypeScript
+- Firebase
+
+➡ Team Project
+
+</td>
+
+<td width="50%">
+
+### 🤖 Dr Buddy
+
+AI Medical Assistant
+
+- Python
+- Streamlit
+- Kotlin
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎮 CodePlay
+
+Interactive Coding Platform for Kids
+
+- Next.js
+- TypeScript
+
+</td>
+
+<td>
+
+### 💼 Portfolio
+
+Personal Portfolio Website
+
+- React
+- TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌸 Zara Handmade
+
+Business Website
+
+- JavaScript
+- MongoDB
+
+</td>
+
+<td>
+
+### 🏢 Engineering Website
+
+Corporate Website
+
+- TypeScript
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 💻 Skills
+# ⚡ Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,kotlin,mysql" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,kotlin"/>
+
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,php" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
+
 </p>
 
-### Databases
+### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
 </p>
 
 ### Cloud & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,figma,photoshop" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode,figma"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🌱 Learning Path
 
-<div align="center">
+```mermaid
+graph LR
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chamodilakshani&show_icons=true&theme=tokyonight&hide_border=true"/>
+A[Full Stack Development] --> B[AWS Cloud]
 
-<img height="170" src="https://streak-stats.demolab.com?user=chamodilakshani&theme=tokyonight&hide_border=true"/>
+B --> C[Azure]
 
-</div>
+C --> D[Cloud Engineer]
+
+```
 
 ---
 
-<div align="center">
+# 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodilakshani&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chamodilakshani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=chamodilakshani&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamodilakshani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamodilakshani&theme=react-dark"/>
+
+</p>
+
+---
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamodilakshani&theme=tokyo-night"/>
+## 🌟 Beyond Coding
+
+📚 Learning new technologies
+
+🎨 UI/UX Design
+
+🏥 Healthcare Innovation
+
+☁ Exploring Cloud Computing
+
+🤖 AI-powered Applications
 
 </div>
 
@@ -163,8 +252,10 @@ Responsive company website developed using TypeScript.
 
 <div align="center">
 
-### 🌱 Learning • Building • Growing
+## 💬 Favorite Quote
 
-*"Technology has the power to improve lives, and I'm excited to contribute by building impactful solutions."*
+> *"Every expert was once a beginner who kept building."*
+
+⭐ Thanks for visiting my profile!
 
 </div>
