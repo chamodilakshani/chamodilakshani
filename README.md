@@ -47,19 +47,19 @@
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,mongodb" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify,azure" />
 </p>
 
 ### Design & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,vscode,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,photoshop,androidstudio" />
 </p>
 
 ---
